@@ -1,0 +1,113 @@
+Hello Jaime,
+
+Thank you for contacting us.
+
+For profile related questions, please contact our Orders Department at orders@offensive-security.com .
+Please make sure to include your OSID and a detailed description of your inquiry, so they may better assist you.
+
+Also you can inquire about Continuing Education Unit (CEU) and the ways to submit them.
+
+Please reach out to the correct Department outlined above by sending a new email (do not reply or forward).
+
+Keep us updated should you require any additional information.
+_________________________________________________________________________________________________________________________________________________________
+Hello Maarten,
+
+Thank you for contacting us.
+
+Please provide us with your OSID so that we can better assist you.
+________________________________________________________________________________________________________________________________________________________
+Hello Alan,
+
+Thank you for contacting us.
+
+If you are experiencing issues with lab connectivity, please send us the output of the following:
+- the full output of the OpenVPN connection window
+-  troubleshooting.log, which can be obtained by running "./troubleshooting.sh" in your "lab-connection" directory
+
+For more information regarding VPN Testing, we invite you to visit the corresponding entry on our Frequently Asked Questions page at the following URL:  https://www.offensive-security.com/faq/https://www.offensive-security.com/faq/#vpn-support
+
+Keep us informed of your progress.
+_________________________________________________________________________________________________________________________________________________________
+Hello Jose,
+
+Thank you for contacting us.
+
+You can find both your latest Connectivity Pack and Credentials, along with instructions detailing how to connect to the VPN labs within the “Penetration Testing with Kali Linux - Lab Access Started - OS-22482” email which was sent on the 21st of November to your “@visa.com” address.
+
+If you are unable to locate the above email, please check your spam and junk folders in order to ensure that it has not been filtered. 
+
+Keep us updated if you require any additional information.
+latest connection details
+
+_________________________________________________________________________________________________________________________________________________________
+Hello Artur,
+
+Thank you for contacting us.
+
+As requested, we have reset your revert counter to eight (8).
+For future reference, the revert counter is reset every day at midnight GMT and virtual machine reverts should be used wisely.
+
+If you require any additional assistance, feel free to contact us again.
+
+________________________________________________________________________________________________________________________________________________________
+
+Hello Santhosh Kumar,
+
+Thank you for contacting us.
+
+Based on the outputs you have provided, you have multiple (2) tap interfaces open.
+Please note that the lab environment can only support one active connection at any time.
+
+We suggest rebooting your machine, and reconnecting to the exam labs ensuring you only have one active VPN connection.
+
+Should you still experience any issues with VPN connectivity, please provide us with the latest outputs of the following:
+- OpenVPN connection window
+- troubleshooting.sh script
+
+Alternatively, for technical support in real time, which is the preferred method, please reach out to our Administrators.
+Our staff is on hand 24/7 and can be reached via https://support.offensive-security.com/chat.php .
+
+Keep us updated with your progress.
+
+________________________________________________________________________________________________________________________________________________________
+Hello Joseph,
+
+Thank you for contacting us.
+
+We recommend checking your mailbox to ensure the Acclaim email is not being flagged as spam or sent to your junk folder.
+If you're not able to find it, you may change your email address through your Acclaim account. 
+
+For assistance with changing your Acclaim email please contact them directly via the following URL:
+http://support.youracclaim.com
+
+Please be advised, in order to be able to see your badge, you need to use the same email on both your OffSec and Acclaim accounts. 
+Currently, your primary email on your OffSec account is "XXXX"
+
+Should you need further assistance, please don't hesitate to contact us.
+
+________________________________________________________________________________________________________________________________________________________
+
+Hi Mingzhang,
+
+Thank you for your email.
+
+For completing the course materials and exercises, we highly recommend that use Kali Linux.The Offsec VM has been fully tested with the course material 
+
+You are able to find more information about the VM at the following address: https://forums.offensive-security.com/showthread.php?t=2205
+
+Should you have any other questions, feel free to get in touch.
+
+________________________________________________________________________________________________________________________________________________________
+
+Hello Rocky,
+
+Thank you for contacting us.
+
+According to our records, you submitted your exam on November 18, 19:00 (America/New_York).
+As you do not have an active lab account, we are unable to resend the connection details.
+
+In order to purchase a lab extension, please use the new purchases link we have just resent to your "ryan.ohoro@target.com" email address.
+For any additional questions you might have regarding the new purchases, please contact our Orders Department at orders@offensive-security.com
+
+Keep us updated should you require any additional information.
